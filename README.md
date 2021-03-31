@@ -5,7 +5,7 @@
 I developed this game while leanrning the Minimax algorithm.  
 I also decided to explore the developing for Android with Unity.
 
-##Features
+## Features
 - 3 levels of difficulty:
     - Easy: Bot chooses random
     - Medium: 50/50 chance the bot chooses random or Minimax
@@ -13,5 +13,6 @@ I also decided to explore the developing for Android with Unity.
 - Scoreboard
 - The player can choose if it goes first(X) or second(O).
 
+## More Images
 ![](img/InGame.jpg)
 ![](img/Winner.jpg)
